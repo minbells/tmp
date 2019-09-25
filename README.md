@@ -18,3 +18,5 @@
 
 # 데이터 
 ![대체 텍스트(alternative text)를 입력하세요!](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png "링크 설명(title)을 작성하세요.")
+
+MNIST는 사람이 손으로 쓴 숫자들로 이루어진 대형 데이터베이스이며, 다양한 화상 처리 시스템을 트레이닝 할 때 주로 사용된다. 28×28 크기의 흑백 이미지로 0~9까지 레이블로 구성되어 있고 60000장의 트레이닝와 10000장의 테스트 데이터로 이루어져 있다. 
